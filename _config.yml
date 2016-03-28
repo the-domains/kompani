@@ -1,7 +1,7 @@
 name: kompani
 favicon: null
-layout_spectrum: 0.7340293030720204
-typography_spectrum: 0.5428272269200534
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.17733797966502607
+    - '#000000'
+    - '#ffffff'
+    - '#808080'
+    - '#555555'
+    - '#d5d5d5'
+  brandStrength: 0.25
   lightness: 0.5471136362757534
-  saturation: 0.3317729621194303
+  saturation: 0.25
   rhythmicContrast: 0.9969846250023693
 purpose: []
